@@ -1,5 +1,5 @@
 # Grupo 8  GCSW
-Integrantes: 
+## Integrantes: 
 
 Carranza Sigcho Carlos Alberto<br>
 Gorozabel Toala Karolin Nicole<br>
